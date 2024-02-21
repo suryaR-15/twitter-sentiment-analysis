@@ -2,7 +2,13 @@
 
 Notebook with my code on the Kaggle competition: [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction)
 
-Data: train.csv and test.csv
+# Data
+train.csv and test.csv
+
+# Code
+Tweet_Sentiment_Prediction.ipynb - Google Colab notebook with code that trains the model to predict the sentiment of the tweet.
+
+# Dataset and competition description 
 
 _Copied from Kaggle:_
 
@@ -16,7 +22,7 @@ Disclaimer: The dataset for this competition contains text that may be considere
 
 # Method
 
-My code is based on the pre-trained huggingface model [distilbert-based-uncased](https://huggingface.co/distilbert/distilbert-base-uncased) and provides an accuracy of 89% on the evaluation data.
+My code is based on the pre-trained huggingface model [distilbert-based-uncased](https://huggingface.co/distilbert/distilbert-base-uncased) and provides an accuracy of 89% on the evaluation data for sentiment prediction.
 
 # Model
 
