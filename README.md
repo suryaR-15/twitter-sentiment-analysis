@@ -16,7 +16,7 @@ Disclaimer: The dataset for this competition contains text that may be considere
 
 # Method
 
-My code is based on the pre-trained huggingface model [distilbert-based-uncased](https://huggingface.co/distilbert/distilbert-base-uncased) and provides an accuracy of 88.8% on the evaluation data.
+My code is based on the pre-trained huggingface model [distilbert-based-uncased](https://huggingface.co/distilbert/distilbert-base-uncased) and provides an accuracy of 89% on the evaluation data.
 
 # Model
 
